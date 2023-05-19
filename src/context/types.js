@@ -1,0 +1,31 @@
+export const SET_LOADING = "SET_LOADING";
+export const SET_FILINGS = "SET_FILINGS";
+export const SET_COLUMNS = "SET_COLUMNS";
+export const SET_PINUP = "SET_PINUP";
+export const SET_HIDDEN_COLUMNS = "SET_HIDDEN_COLUMNS";
+export const SET_SELECTS = "SET_SELECTS";
+export const SET_AMOUNT = "SET_AMOUNT";
+export const SET_FILING = "SET_FILING";
+export const SET_FILTERS_DATA = "SET_FILTERS_DATA";
+export const SET_RELOAD = "SET_RELOAD";
+export const SET_BANK = "SET_BANK";
+export const SET_OPTIONS_CHART = "SET_OPTIONS_CHART";
+export const SET_DATA_CHARTS = "SET_DATA_CHARTS";
+
+//opens
+export const SET_OPEN_FORM = "SET_OPEN_FORM";
+export const SET_OPEN_TAGS = "SET_OPEN_TAGS";
+export const SET_OPEN_CHANGE_STATE = "SET_OPEN_CHANGE_STATE";
+export const SET_OPEN_SEE_HIDDEN_COLUMNS = "SET_OPEN_SEE_HIDDEN_COLUMNS";
+export const SET_OPEN_CHARTS = "SET_OPEN_CHARTS";
+export const SET_OPEN_OPTIONS_CHART = "SET_OPEN_OPTIONS_CHART";
+
+//config
+export const SET_WIDTH_OBSERVATIONS = "SET_WIDTH_OBSERVATIONS";
+export const SET_WIDTH_COLUMNS = "SET_WIDTH_COLUMNS";
+
+//filter date
+export const SET_DATA_FILTER_DATE = "SET_DATA_FILTER_DATE";
+export const SET_SELECT = "SET_SELECT";
+export const SET_OPEN = "SET_OPEN";
+export const SET_CHANGE_FILTER_DATE = "SET_CHANGE_FILTER_DATE";
